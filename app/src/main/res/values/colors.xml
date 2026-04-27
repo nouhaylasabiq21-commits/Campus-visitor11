@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Backgrounds -->
+    <color name="bg">#0F0F13</color>
+    <color name="bg2">#16161D</color>
+    <color name="surface">#1E1E28</color>
+    <color name="surface2">#25252F</color>
+    <color name="surface3">#2C2C38</color>
+
+    <!-- Text -->
+    <color name="text_primary">#F0EFF5</color>
+    <color name="text_muted">#9B99A8</color>
+    <color name="text_subtle">#5C5A6B</color>
+
+    <!-- Accent Purple -->
+    <color name="accent">#7C6FF7</color>
+    <color name="accent2">#A78BFA</color>
+    <color name="accent_bg">#1E1A3D</color>
+
+    <!-- Green -->
+    <color name="green">#34D399</color>
+    <color name="green_bg">#0D2B1F</color>
+
+    <!-- Blue -->
+    <color name="blue">#60A5FA</color>
+    <color name="blue_bg">#0D1F35</color>
+
+    <!-- Gold/Amber -->
+    <color name="gold">#FBBF24</color>
+    <color name="gold_bg">#2B2006</color>
+
+    <!-- Red -->
+    <color name="accent_red">#F87171</color>
+    <color name="accent_red_bg">#2B0D0D</color>
+
+    <!-- Border -->
+    <color name="border">#2C2C38</color>
+    <color name="border_light">#3A3A48</color>
+
+    <!-- Dark sidebar -->
+    <color name="dark_bg">#16161D</color>
+    <color name="gold_accent">#A78BFA</color>
+</resources>
